@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning Everything I like.
 - 💬 Ask me about anything related to Java/Python.
-- 📫 How to reach me: wisdom_zhe@qq.com
+- 📫 How to reach me: 9075512@qq.com
 - 😄 Read more about my CSDN: [叽叽](https://blog.csdn.net/weixin_43331963)
 
 ### My Skill Set
