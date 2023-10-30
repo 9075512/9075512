@@ -17,6 +17,8 @@
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9075512&layout=compact&theme=tokyonight)
+
 ![](https://github-readme-stats.vercel.app/api?username=9075512&show_icons=true&theme=transparent)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/9075512/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
