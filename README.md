@@ -44,6 +44,8 @@
 
 <tr><td>
  
+ ### 🔥 My Skills
+ 
 ![](https://github-readme-stats.vercel.app/api?username=9075512&show_icons=true&theme=transparent)
 
 </td></tr>
