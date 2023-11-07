@@ -41,11 +41,7 @@
 
 
 </td></tr>
-<tr><td>
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=9075512&layout=compact&theme=tokyonight)
 
-</td></tr>
 <tr><td>
  
 ![](https://github-readme-stats.vercel.app/api?username=9075512&show_icons=true&theme=transparent)
