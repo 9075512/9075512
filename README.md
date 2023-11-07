@@ -51,6 +51,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=9075512&show_icons=true&theme=transparent)
 
 </td></tr>
-<tr><td>
-You are my ![Visitor Count](https://profile-counter.glitch.me/9075512/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+
 
